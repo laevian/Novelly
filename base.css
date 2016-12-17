@@ -1,0 +1,178 @@
+body
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Short Stack', sans-serif;
+    color: #454545;
+    background-color: #eaeaea;
+}
+
+.stackscontainer
+{
+  background-color: #c7c7c7;
+  width: 15vw;
+  display: flex;
+  height: calc(100vh - 15em);
+  box-sizing: border-box;
+  flex-direction:column;
+  box-sizing: border-box;
+  float: left;
+  z-index: -2;
+  overflow-y: auto;
+}
+
+.stackconheader
+{
+  height: 2.5em;
+  background-color: #828282;
+  color: #ffffff;
+  width: 100%;
+  padding: .6em;
+  box-sizing: border-box;
+  margin-bottom: 1em;
+}
+
+
+.add, .delete
+{
+  padding: .5em;
+  height: 30px;
+  width: 30px;
+  color: #ffffff;
+  background-color: #5E88A4;
+  margin: 0 1em .5em 1em;
+  float: left;
+  margin-right: .5em;
+}
+
+.sheet, .stack
+{
+  padding: .5em 1em;
+  box-sizing: border-box;
+  margin: -.2em 0;
+}
+
+.sheet:after, .stack:after {
+  content: ' ';
+  display: block;
+  height: 1em;
+  position: relative;
+  bottom: 1em;
+  width: 100%;
+  background-color: #ffffff;
+  border-left: 7px solid #5e88a4;
+  border-right: 1px solid #b4b4b4;
+  border-bottom: 1px solid #b4b4b4;
+  box-sizing: border-box;
+}
+
+.content
+{
+  font-size: .75em;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  width: 100%;
+  margin: 0;
+  padding: 1.5em;
+  border: 1px solid #b4b4b4;
+  border-left: 7px solid #5e88a4;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  max-height: 14.5em;
+}
+
+.content::first-line{
+  font-size: 1.4em;
+}
+
+.activepanel
+{
+  float: left;
+  width: 84vw;
+  height:100vh;
+  padding: 2.5em;
+  box-sizing: border-box;
+}
+
+.activesheet
+{
+  background-color: #ffffff;
+  box-sizing: border-box;
+  padding: 1.5em;
+  height: calc(100% - 15em);
+  box-shadow: 0px 5px 5px #b4b4b4;
+}
+
+.activeglow {
+    box-shadow: 2px 5px 5px #5e88a4;
+}
+
+.activesheet textarea {
+  width: 100%;
+  height: auto;
+  border: 0;
+  resize: none;
+  font-family: 'Short Stack', sans-serif;
+  font-size: 1.2em;
+  color: #b4b4b4;
+}
+
+.activesheet textarea:focus, .activesheet input:focus {
+  outline: none;
+  color: #454545;
+}
+
+.characterspane {
+  width: 100%;
+  position: absolute;
+  bottom: 0;
+  height: 15em;
+  background-color: #c7c7c7;
+  box-sizing: border-box;
+}
+
+.name {
+  margin: 0;
+  padding: 0;
+  text-overflow: ellipsis;
+}
+
+.character {
+  width: 10em;
+  height: 10em;
+  margin: 1em .5em;
+  box-sizing: border-box;
+  background: url("characterprev.svg") no-repeat center center;
+  background-color: #f1f1f1;
+  padding: .5em .2em;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  border: 1px solid #b4b4b4;
+}
+
+.actioncont-v {
+  width: 33px;
+  float: left;
+}
+
+.charactercontainer {
+  display: flex;
+  flex-direction: row;
+  position: absolute;
+  left: 5em;
+  right: 0;
+  height: 12em;
+  box-sizing: border-box;
+  margin-top: -1em;
+  float: left; /** hacky-hack hack. come back to fix this later, me **/
+  overflow-x: auto;
+}
+
+input[type="text"]
+{
+  border: 0;
+  font-size: 2.5em;
+  font-family: 'Short Stack', sans-serif;
+}

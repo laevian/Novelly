@@ -1,0 +1,63 @@
+<svg width="195" height="134" viewBox="0 0 195 134" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:figma="http://www.figma.com/figma/ns">
+<title>Stack 1</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(470 1156)" figma:type="canvas">
+<g id="Stack 1" style="mix-blend-mode:normal;" figma:type="frame">
+<g id="Rectangle" style="mix-blend-mode:normal;" figma:type="rounded-rectangle">
+<use xlink:href="#path0_fill" transform="matrix(0.989641 -0.143565 0.144541 0.989499 -451.262 -1132.61)" fill="#F1F1F1" style="mix-blend-mode:normal;"/>
+<mask id="mask0_outline_ins">
+<use xlink:href="#path0_fill" fill="white" transform="matrix(0.989641 -0.143565 0.144541 0.989499 -451.262 -1132.61)"/>
+</mask>
+<g mask="url(#mask0_outline_ins)">
+<use xlink:href="#path1_stroke_2x" transform="matrix(0.989641 -0.143565 0.144541 0.989499 -451.262 -1132.61)" fill="#BDBDBD" style="mix-blend-mode:normal;"/>
+</g>
+</g>
+<g id="Rectangle" style="mix-blend-mode:normal;" figma:type="rounded-rectangle">
+<use xlink:href="#path2_fill" transform="matrix(0.99192 -0.126865 0.127732 0.991809 -458.327 -1125.33)" fill="#F1F1F1" style="mix-blend-mode:normal;"/>
+<mask id="mask1_outline_ins">
+<use xlink:href="#path2_fill" fill="white" transform="matrix(0.99192 -0.126865 0.127732 0.991809 -458.327 -1125.33)"/>
+</mask>
+<g mask="url(#mask1_outline_ins)">
+<use xlink:href="#path3_stroke_2x" transform="matrix(0.99192 -0.126865 0.127732 0.991809 -458.327 -1125.33)" fill="#BDBDBD" style="mix-blend-mode:normal;"/>
+</g>
+</g>
+<g id="Rectangle" style="mix-blend-mode:normal;" figma:type="rounded-rectangle">
+<use xlink:href="#path4_fill" transform="matrix(0.991096 0.133146 -0.134055 0.990974 -440.354 -1153.49)" fill="#F1F1F1" style="mix-blend-mode:normal;"/>
+<mask id="mask2_outline_ins">
+<use xlink:href="#path4_fill" fill="white" transform="matrix(0.991096 0.133146 -0.134055 0.990974 -440.354 -1153.49)"/>
+</mask>
+<g mask="url(#mask2_outline_ins)">
+<use xlink:href="#path5_stroke_2x" transform="matrix(0.991096 0.133146 -0.134055 0.990974 -440.354 -1153.49)" fill="#BDBDBD" style="mix-blend-mode:normal;"/>
+</g>
+</g>
+<g id="Rectangle" style="mix-blend-mode:normal;" figma:type="rounded-rectangle">
+<use xlink:href="#path4_fill" transform="matrix(0.991096 0.133146 -0.134055 0.990974 -456.034 -1149.15)" fill="#F1F1F1" style="mix-blend-mode:normal;"/>
+<mask id="mask3_outline_ins">
+<use xlink:href="#path4_fill" fill="white" transform="matrix(0.991096 0.133146 -0.134055 0.990974 -456.034 -1149.15)"/>
+</mask>
+<g mask="url(#mask3_outline_ins)">
+<use xlink:href="#path5_stroke_2x" transform="matrix(0.991096 0.133146 -0.134055 0.990974 -456.034 -1149.15)" fill="#BDBDBD" style="mix-blend-mode:normal;"/>
+</g>
+</g>
+<g id="Rectangle" style="mix-blend-mode:normal;" figma:type="rounded-rectangle">
+<use xlink:href="#path6_fill" transform="matrix(0.996654 -0.0817413 0.0823053 0.996607 -462.345 -1134.66)" fill="#F1F1F1" style="mix-blend-mode:normal;"/>
+<mask id="mask4_outline_ins">
+<use xlink:href="#path6_fill" fill="white" transform="matrix(0.996654 -0.0817413 0.0823053 0.996607 -462.345 -1134.66)"/>
+</mask>
+<g mask="url(#mask4_outline_ins)">
+<use xlink:href="#path7_stroke_2x" transform="matrix(0.996654 -0.0817413 0.0823053 0.996607 -462.345 -1134.66)" fill="#BDBDBD" style="mix-blend-mode:normal;"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" d="M 0 0L 162.891 0L 162.891 104.183L 0 104.183L 0 0Z"/>
+<path id="path1_stroke_2x" d="M 0 0L 0 -1L -1 -1L -1 0L 0 0ZM 162.891 0L 163.891 0L 163.891 -1L 162.891 -1L 162.891 0ZM 162.891 104.183L 162.891 105.183L 163.891 105.183L 163.891 104.183L 162.891 104.183ZM 0 104.183L -1 104.183L -1 105.183L 0 105.183L 0 104.183ZM 0 1L 162.891 1L 162.891 -1L 0 -1L 0 1ZM 161.891 0L 161.891 104.183L 163.891 104.183L 163.891 0L 161.891 0ZM 162.891 103.183L 0 103.183L 0 105.183L 162.891 105.183L 162.891 103.183ZM 1 104.183L 1 0L -1 0L -1 104.183L 1 104.183Z"/>
+<path id="path2_fill" d="M 0 0L 162.893 0L 162.893 104.181L 0 104.181L 0 0Z"/>
+<path id="path3_stroke_2x" d="M 0 0L 0 -1L -1 -1L -1 0L 0 0ZM 162.893 0L 163.893 0L 163.893 -1L 162.893 -1L 162.893 0ZM 162.893 104.181L 162.893 105.181L 163.893 105.181L 163.893 104.181L 162.893 104.181ZM 0 104.181L -1 104.181L -1 105.181L 0 105.181L 0 104.181ZM 0 1L 162.893 1L 162.893 -1L 0 -1L 0 1ZM 161.893 0L 161.893 104.181L 163.893 104.181L 163.893 0L 161.893 0ZM 162.893 103.181L 0 103.181L 0 105.181L 162.893 105.181L 162.893 103.181ZM 1 104.181L 1 0L -1 0L -1 104.181L 1 104.181Z"/>
+<path id="path4_fill" d="M 0 0L 162.892 0L 162.892 104.182L 0 104.182L 0 0Z"/>
+<path id="path5_stroke_2x" d="M 0 0L 0 -1L -1 -1L -1 0L 0 0ZM 162.892 0L 163.892 0L 163.892 -1L 162.892 -1L 162.892 0ZM 162.892 104.182L 162.892 105.182L 163.892 105.182L 163.892 104.182L 162.892 104.182ZM 0 104.182L -1 104.182L -1 105.182L 0 105.182L 0 104.182ZM 0 1L 162.892 1L 162.892 -1L 0 -1L 0 1ZM 161.892 0L 161.892 104.182L 163.892 104.182L 163.892 0L 161.892 0ZM 162.892 103.182L 0 103.182L 0 105.182L 162.892 105.182L 162.892 103.182ZM 1 104.182L 1 0L -1 0L -1 104.182L 1 104.182Z"/>
+<path id="path6_fill" d="M 0 0L 162.899 0L 162.899 104.177L 0 104.177L 0 0Z"/>
+<path id="path7_stroke_2x" d="M 0 0L 0 -1L -1 -1L -1 0L 0 0ZM 162.899 0L 163.899 0L 163.899 -1L 162.899 -1L 162.899 0ZM 162.899 104.177L 162.899 105.177L 163.899 105.177L 163.899 104.177L 162.899 104.177ZM 0 104.177L -1 104.177L -1 105.177L 0 105.177L 0 104.177ZM 0 1L 162.899 1L 162.899 -1L 0 -1L 0 1ZM 161.899 0L 161.899 104.177L 163.899 104.177L 163.899 0L 161.899 0ZM 162.899 103.177L 0 103.177L 0 105.177L 162.899 105.177L 162.899 103.177ZM 1 104.177L 1 0L -1 0L -1 104.177L 1 104.177Z"/>
+</defs>
+</svg>

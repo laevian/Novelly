@@ -1,0 +1,20 @@
+<svg width="75" height="84" viewBox="0 0 75 84" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:figma="http://www.figma.com/figma/ns">
+<title>Group</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(680 -272)" figma:type="canvas">
+<g id="Group" style="mix-blend-mode:normal;" figma:type="frame">
+<g id="Group" style="mix-blend-mode:normal;" figma:type="frame">
+<g id="Ellipse" style="mix-blend-mode:normal;" figma:type="ellipse">
+<use xlink:href="#path0_fill" transform="translate(-666.938 272)" fill="#BDBDBD" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Subtract" style="mix-blend-mode:normal;" figma:type="vector-operation">
+<use xlink:href="#path1_fill" transform="translate(-680 313.16)" fill="#BDBDBD" style="mix-blend-mode:normal;"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" d="M 50.5618 25.2C 50.5618 39.1176 39.2432 50.4 25.2809 50.4C 11.3186 50.4 0 39.1176 0 25.2C 0 11.2824 11.3186 0 25.2809 0C 39.2432 0 50.5618 11.2824 50.5618 25.2Z"/>
+<path id="path1_fill" fill-rule="evenodd" d="M 0 42.84L 75 42.84C 75 19.1801 58.2107 0 37.5 0C 16.7893 0 0 19.1801 0 42.84Z"/>
+</defs>
+</svg>
